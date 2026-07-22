@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yi+%F0%9F%91%8B;Full-Stack+Developer+%40+Energy+Sector;Building+AI-powered+systems" alt="Typing SVG" />
 
-**AI Full-stack developer in Salzburg, Austria 🇦🇹 — building B2B SaaS for energy communities**
+**Full-stack developer in Salzburg, Austria 🇦🇹 — building B2B SaaS for energy communities**
 
 Linguistics grad → Product Manager → Engineer. I like careers with plot twists.
 
@@ -42,8 +42,8 @@ Linguistics grad → Product Manager → Engineer. I like careers with plot twis
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnnikaGeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnikaGeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AnnikaGeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnnikaGeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 

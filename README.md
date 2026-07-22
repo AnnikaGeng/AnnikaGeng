@@ -38,12 +38,11 @@ Linguistics grad → Product Manager → Engineer. I like careers with plot twis
 | 💅 [nail-landing-page](https://github.com/AnnikaGeng/nail-landing-page) | Landing page for a nail studio | TypeScript |
 | 🌌 [3d-portfolio](https://github.com/AnnikaGeng/3d-portfolio) | Interactive 3D portfolio site | Three.js |
 
-### 📊 Stats
+### 📊 Languages
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=AnnikaGeng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnnikaGeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnnikaGeng&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=php,scss,css,html" alt="Top languages" />
 
 </div>
 

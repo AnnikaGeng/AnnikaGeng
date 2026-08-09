@@ -34,6 +34,8 @@ Linguistics grad → Product Manager → Engineer. I like careers with plot twis
 | Project | What it is | Stack |
 | --- | --- | --- |
 | 🧠 **Agentic RAG Capstone** *(WIP)* | Production-grade agentic RAG with full GenAI observability | Python · OTel · LLMs |
+| 🎯 [Ease](https://github.com/AnnikaGeng/ease-yearly-goal-planner) *(WIP)* | Yearly goal planner — breaks goals down into daily/monthly/yearly views | React Native · Expo · TypeScript |
+| 🏋️ [fitness-frontend](https://github.com/AnnikaGeng/fitness-frontend) | Gym landing page, frontend practice project | React · Vite · TypeScript |
 | 🐾 [petCare](https://github.com/AnnikaGeng/petCare-backend) | Full-stack pet care app ([frontend](https://github.com/AnnikaGeng/petCare-frontend) / [backend](https://github.com/AnnikaGeng/petCare-backend)) | Java · HTML/JS |
 | 💅 [nail-landing-page](https://github.com/AnnikaGeng/nail-landing-page) | Landing page for a nail studio | TypeScript |
 | 🌌 [3d-portfolio](https://github.com/AnnikaGeng/3d-portfolio) | Interactive 3D portfolio site | Three.js |

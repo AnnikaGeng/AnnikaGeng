@@ -14,7 +14,7 @@ Linguistics grad → Product Manager → Engineer. I like careers with plot twis
 
 - 🤖 **LLM Zoomcamp 2026** — building an **agentic RAG system** with production-grade observability (OpenTelemetry GenAI semantic conventions) — *WIP, watch this space*
 - ⚡ Shipping features for an energy communities platform (Java/Micronaut + SvelteKit on Azure)
-- ☁️ Preparing **AI-200** (Azure AI cloud Developer Associate)
+- ☁️ Just got Azure AI cloud Developer Associate Certificate 🥳
 
 ### 🛠️ Tech I work with daily
 
